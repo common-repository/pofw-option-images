@@ -1,0 +1,14 @@
+
+#woocommerce-product-data ul.wc-tabs li.pofw_oi_product_data_options a::before {content: '\f163';} /* product tab icon*/
+
+.pofw-oi-container {padding: 5px 20px 5px 12px;}
+
+.pofw-oi-container .pofw-oi-option-title {font-weight:bold; padding-bottom: 3px;}
+.pofw-oi-container .pofw-oi-values {display:table; margin:0 0 10px 10px;}
+.pofw-oi-container .pofw-oi-values .pofw-oi-value {display:table-row;}
+.pofw-oi-container .pofw-oi-values .pofw-oi-value .pofw-oi-value-title {display:table-cell; padding:0 10px 8px 0;}
+.pofw-oi-container .pofw-oi-values .pofw-oi-value .pofw-oi-value-image {display:table-cell; width:110px;}
+.pofw-oi-container .pofw-oi-values .pofw-oi-value .pofw-oi-value-image img {width:27px; vertical-align: middle;}
+.pofw-oi-container .pofw-oi-values .pofw-oi-value .pofw-oi-value-image .pofw-oi-image-upload,
+.pofw-oi-container .pofw-oi-values .pofw-oi-value .pofw-oi-value-image .pofw-oi-image-delete {cursor: pointer;}
+
